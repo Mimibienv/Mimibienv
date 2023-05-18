@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://raw.githubusercontent.com/Extravi/Extravi/output/github-contribution-grid-snake.svg))
+<img src="https://raw.githubusercontent.com/Extravi/Extravi/output/github-contribution-grid-snake.svg" alt="yes" />
